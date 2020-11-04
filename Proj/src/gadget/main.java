@@ -5,6 +5,9 @@ import java.util.*;
 public class main {
 
 	public static void main(String[] args) {
+		
+		// TEST COMMIT FACUT DE BOERU DOAR CA SA VAD DACA MERGE PUP
+		
 		Gadget ceva = new Gadget("sony","aparat","brand de brand","conect","plastic",10,"negru",400,14,15,"comp");
 		Gadget altceva = new Gadget(ceva);
 		System.out.println(ceva);
